@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    width: 30%;
+    height: 25;
+    text-decoration: underline;
+    margin-left: 500px;
+    color:darkred;
+    padding:2%;
+}
+label{
+    width: 30%;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(61, 4, 11);
+    margin-left: 25%;
+}
+input{
+    width:10%;
+    font-size: 35px;
+    height: 45px;
+    color: rgb(65, 8, 4);
+    background-color: violet;
+    
+}
+button{
+    width:4%;
+    color:red;
+    background-color: yellow;
+}
+#todo{
+    color:rgb(9, 22, 139);
+    font-family: fantasy;
+    font-size: 25px;
+    margin-left: 3%;
+    
+}
+body{
+    background-color: rgb(120, 190, 248);
+}
